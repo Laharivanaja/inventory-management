@@ -1,0 +1,26 @@
+# backend/.gitignore
+node_modules/
+.env
+*.db
+uploads/
+*.log
+.DS_Store
+coverage/
+
+# frontend/.gitignore
+node_modules/
+.env
+build/
+.DS_Store
+*.log
+
+# root .gitignore
+node_modules/
+.env
+*.db
+*.log
+.DS_Store
+build/
+dist/
+uploads/
+coverage/
