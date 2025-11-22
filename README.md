@@ -257,7 +257,22 @@ id, product_id, old_quantity, new_quantity, changed_by, change_date
 - Check if JWT_SECRET is set in backend `.env`
 
 ## 📸 Screenshots
+Register Page 
+<img width="445" height="641" alt="image" src="https://github.com/user-attachments/assets/a7899503-c642-46a3-bb8d-effa8619091a" />
+
+Login Page
+<img width="464" height="459" alt="image" src="https://github.com/user-attachments/assets/c3b16e8a-8270-47c4-970c-7adb94b8e93c" />
+
+Products Page
 <img width="1317" height="676" alt="image" src="https://github.com/user-attachments/assets/926a5476-f20f-4b81-a1f0-8a34f45216f0" />
+
+Editing 
+<img width="1310" height="385" alt="image" src="https://github.com/user-attachments/assets/e36221a6-d61c-4ef6-aa9e-24f1c7d724bb" />
+
+Deletion 
+<img width="1308" height="409" alt="image" src="https://github.com/user-attachments/assets/c0dbf90a-30ed-49fc-90ff-bc0b79e707d2" />
+
+
 
 
 ### Login Page
