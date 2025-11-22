@@ -257,6 +257,8 @@ id, product_id, old_quantity, new_quantity, changed_by, change_date
 - Check if JWT_SECRET is set in backend `.env`
 
 ## 📸 Screenshots
+<img width="1317" height="676" alt="image" src="https://github.com/user-attachments/assets/926a5476-f20f-4b81-a1f0-8a34f45216f0" />
+
 
 ### Login Page
 User authentication with secure JWT tokens.
